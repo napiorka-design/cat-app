@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <>
       <div className='flex flex-col items-center justify-center w-full h-screen'>
-        <h1 className='mb-4 text-3xl'>The Cat</h1>
+        <h1 className='mb-4 text-3xl'>MeowMates</h1>
 
         <div className='relative w-32 h-32 mb-4 overflow-hidden rounded-full ring-2 ring-pink-200 ring-offset-4'>
           <Image
